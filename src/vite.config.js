@@ -1,5 +1,4 @@
-import { defineConfig } from "vite";
-
-export default defineConfig({
-  base: "/Sonic-Runner/", // Replace 'Sonic-Runner' with your repository name
-});
+// vite.config.js
+export default {
+  base: '/Sonic-Runner/', // Adjust this to your repository name
+};
